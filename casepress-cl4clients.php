@@ -3,6 +3,7 @@
 Plugin Name: CasePress. Выводит заказы на странице клиента
 Description: Функции выводит на странице клиента все заказы. Клиент должен быть указан через поле ACF (relationship) с ключем client.
 Version: 1.0
+Plugin URI: https://github.com/systemo-biz/casepress-cl4clients
 Author: Systemo
 */
 
